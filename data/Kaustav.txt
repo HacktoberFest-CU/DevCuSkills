@@ -1,0 +1,7 @@
+Kaustav Bora
+Skills:
+Python
+Flutter Development
+Machine learning using python libs
+Problem Solving
+Big Data using hive,Pig,HBASE,

@@ -1,0 +1,5 @@
+UDAY PRATAP SINGH
+CSE (2nd Year)
+SKILLED IN
+1. C++
+2. Java
