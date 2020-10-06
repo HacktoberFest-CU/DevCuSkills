@@ -9,7 +9,7 @@ Fork this repository
 Click on Fork Button.
 
 
-Create a new file with your NAME and add your details.
+Create a new file inside [data](./data) with your NAME and add your details.
 
 Last Click on Commit Changes.
 
